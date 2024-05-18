@@ -22,10 +22,7 @@ open
 #if  linkedlist == open
 int main()
 {
-  //  linkedList_application();
-
-  queue_application();
-
+   linkedList_application();
     return 0;
 }
 #elif stack == open
@@ -37,6 +34,7 @@ int main()
 #elif Queue == open
 int main()
 {
+//update
     queue_application();
     return 0;
 }
